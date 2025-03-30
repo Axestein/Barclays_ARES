@@ -538,7 +538,7 @@ Format requirements:
         <div className="p-6 md:p-8">
           <div className="text-center mb-8">
             <h1 className="text-3xl font-bold text-gray-800 mb-2">
-              Engineering Document Generator
+              ReqFlow.ai - Automated Requirements Engineering System
             </h1>
             <p className="text-lg text-gray-600">
               Transform multiple files into professionally structured technical documents
