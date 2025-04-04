@@ -3,8 +3,8 @@
 - A business analyst spends days reading emails
 /meeting notes to write requirements.  
 - Developers get unclear specs, causing rework.
-  ![Screenshot 2025-04-04 214919](https://github.com/user-attachments/assets/0219df09-9198-4479-8dd8-f2aba095e1f8)
-
+ <img src="https://github.com/user-attachments/assets/0219df09-9198-4479-8dd8-f2aba095e1f8" alt="Screenshot 2025-04-04 214919" width="400" height="300">
+ 
 **After Reqflow.ai**:  
 1. User uploads a meeting transcript (PDF).  
 2. AI extracts (for example): 
